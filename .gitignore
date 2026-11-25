@@ -1,0 +1,15 @@
+# 更新签名私钥，绝不能提交
+mygo-update.key
+
+# 构建产物
+dist/
+build/
+*.exe
+
+# MyGo / Go 临时目录
+.mygo/
+*.test
+
+# 系统文件
+.DS_Store
+Thumbs.db

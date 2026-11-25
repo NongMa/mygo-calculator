@@ -1,0 +1,19 @@
+{
+  "name": "MyGo Calculator",
+  "slug": "mygo-calculator",
+  "identifier": "com.mygo.calculator",
+  "version": "1.0.0",
+  "icon": "resources/icon.png",
+  "main": ".",
+  "updates": {
+    "publicKey": "nTVsJ0Arp3/ZoYhffIGXCb7HZkHJiIzxMI5rNm4KxDk=",
+    "github": "NongMa/mygo-calculator"
+  },
+  "android": {
+    "splash": "#1a1a3e",
+    "adaptiveIcon": {
+      "foreground": "resources/icon.png",
+      "background": "#1a1a3e"
+    }
+  }
+}
